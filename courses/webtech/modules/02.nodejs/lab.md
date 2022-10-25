@@ -1,3 +1,6 @@
+---
+duration: 2h
+---
 
 # Lab: First Node.js & Git project
 
@@ -24,7 +27,7 @@ At the end, it becomes the basis for your final project. The final grade reflect
   - Windows: https://gitforwindows.org/
   - Linux: https://git-scm.com/download/linux
   - macOS: https://git-scm.com/download/mac   
-3. Install **Node.js** by referring the [prerequisites](../00.prerequisite/index.md#nodejs-installation).
+3. Install **Node.js** by referring the [prerequisites](../01.prerequisite/index.md#nodejs-installation).
 4. Open a command-line interface:
   - macOS or Linux: use **Terminal**
   - Windows: use **Git Bash** (should be installed when installing Git). **Note!** Don't use default *CMD.exe*, because it has different commands from a command line of the Linux OS, which is used in most IT environments.
@@ -380,7 +383,7 @@ Create an application with 3 routes:
 
 3. Create dynamic routing.
 
-Parse the path and verify if the file exists in the `content` folder. If yes, print its content. If no, redirect to 404 error page.
+Parse the path and verify if a JSON file exists in the `content` folder. If yes, print its content. If no, redirect to 404 error page.
 
 ## Part 7. Publish your project to GitHub / GitLab
 

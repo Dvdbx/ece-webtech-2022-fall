@@ -7,20 +7,20 @@ This repository contains supporting materials and labs for the Web Technologies 
 
 1. Prerequisites and introduction to Web Technologies
 2. Getting started with Node.js
-3. Web API with Node.js and 
-4. Libraries and frameworks for the web
-5. Styling in React
-6. Rendering on the web
-7. State management
-8. Storage and databases
+3. Web API | with REST and Express.js
+4. Libraries and frameworks | with React and Next.js
+5. Styling in React | with Tailwind CSS
+6. Data Fetching and rendering | with Next.js
+7. State and form management | in React
+8. Storage and databases | with Supabase
 9. Authentication process
 10. Deployment
 
 ## Assignment
 
 1. Participation and labs
-2. Project
-3. MCQ exam (multiple choice questions)
+2. [Project](project-instructions.md)
+3. [MCQ exam](exam-instructions.md) (multiple choice questions)
 
 ## Correction repositories and supporting source code
 
